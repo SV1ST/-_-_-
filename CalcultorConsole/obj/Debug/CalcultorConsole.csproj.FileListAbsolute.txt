@@ -1,0 +1,7 @@
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\bin\Debug\CalcultorConsole.exe.config
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\bin\Debug\CalcultorConsole.exe
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\bin\Debug\CalcultorConsole.pdb
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\obj\Debug\CalcultorConsole.csproj.AssemblyReference.cache
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\obj\Debug\CalcultorConsole.csproj.CoreCompileInputs.cache
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\obj\Debug\CalcultorConsole.exe
+C:\Users\nonas\OneDrive\Рабочий стол\SolbegSoft\CalcultorConsole\CalcultorConsole\obj\Debug\CalcultorConsole.pdb
